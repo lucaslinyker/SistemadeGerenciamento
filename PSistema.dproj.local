@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/04/06 17:21:05.000.552,=C:\Users\sql\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/05/02 10:00:33.000.355,=C:\Users\sql\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/08/06 16:21:37.000.771,=C:\Users\sql\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/08/06 16:22:52.000.239,=C:\Users\sql\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/04/19 09:00:02.000.647,=C:\Users\sql\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/04/19 10:17:14.000.557,C:\Users\sql\Documents\Embarcadero\Studio\Projects\Unit1.dfm=E:\2I3\Ds\SistemadeGerenciamento\UPrincipal.dfm</Transaction>
+    <Transaction>2024/04/19 10:17:14.000.526,C:\Users\sql\Documents\Embarcadero\Studio\Projects\Unit1.pas=E:\2I3\Ds\SistemadeGerenciamento\UPrincipal.pas</Transaction>
+    <Transaction>2024/04/19 10:17:31.000.964,C:\Users\sql\Documents\Embarcadero\Studio\Projects\Project1.dproj=E:\2I3\Ds\SistemadeGerenciamento\PSistema.dproj</Transaction>
+    <Transaction>2024/05/03 10:26:01.000.478,=E:\2I3\Ds\SistemadeGerenciamento\Unit1.pas</Transaction>
+    <Transaction>2024/05/03 10:26:28.000.912,E:\2I3\Ds\SistemadeGerenciamento\Umodulo.dfm=E:\2I3\Ds\SistemadeGerenciamento\Unit1.dfm</Transaction>
+    <Transaction>2024/05/03 10:26:28.000.912,E:\2I3\Ds\SistemadeGerenciamento\Umodulo.pas=E:\2I3\Ds\SistemadeGerenciamento\Unit1.pas</Transaction>
+    <Transaction>2024/05/10 09:02:47.000.164,=E:\2I3\Ds\SistemadeGerenciamento\Unit2.pas</Transaction>
+    <Transaction>2024/05/10 09:03:55.000.730,E:\2I3\Ds\SistemadeGerenciamento\Unit2.pas=E:\2I3\Ds\SistemadeGerenciamento\UDepartamento.pas</Transaction>
+    <Transaction>2024/05/10 09:03:55.000.730,E:\2I3\Ds\SistemadeGerenciamento\Unit2.dfm=E:\2I3\Ds\SistemadeGerenciamento\UDepartamento.dfm</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
